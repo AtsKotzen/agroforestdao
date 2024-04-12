@@ -1,1 +1,1 @@
-The repositories was moved to: [https://github.com/agroforestdao](url)
+The repositories was moved to: [https://github.com/AgroforestDAO/](url)
